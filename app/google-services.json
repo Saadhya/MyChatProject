@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "677602094589",
+    "firebase_url": "https://mychat-1c97e.firebaseio.com",
+    "project_id": "mychat-1c97e",
+    "storage_bucket": "mychat-1c97e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:677602094589:android:2031a984e8770ab6",
+        "android_client_info": {
+          "package_name": "com.example.krishna.mychat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "677602094589-burt6p3m445t5067gl9025so8a3dkea5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDowNTv2MmrMlMuZ1hkIqTnR03VNVyw2Fc"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
